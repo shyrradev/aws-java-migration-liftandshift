@@ -13,6 +13,7 @@
 - [Challenges & Solutions](#challenges--solutions)
 - [Monitoring & Maintenance](#monitoring--maintenance)
 
+![AWS Architecture Diagram](/images/java_aws_migration.png)
 ## Overview
 
 This project demonstrates the successful migration of a Java application to AWS using a lift & shift strategy. The implementation includes high availability setup, security configurations, and automated deployment processes.
